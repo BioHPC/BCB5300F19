@@ -12,7 +12,6 @@ description: Algorithms in Computational Biology
 
 # url is the the website domain URL without a trailing slash
 url: "https://biohpc.github.io/BCB5300"
-baseurl: "/projectname"
 
 # baseurl should be an empty string
 #baseurl: ""
