@@ -21,7 +21,7 @@ baseurl: "/projectname"
 
 # List of links in the navigation bar
 navbar-links:
-  Home" ""
+  Home: ""
   Syllabus: "syllabus"
   About the course: "aboutme"
   Schedules: "schedules"
