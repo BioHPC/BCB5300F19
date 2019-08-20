@@ -15,5 +15,5 @@ is relevant to the topics we cover. We will us
 ## People
 
 - Instructor: Tae-Hyuk (Ted) Ahn
-  - Office: RTH 305 (Sometime, I am working at RTH302)
+  - Office: RTH 305 (Or find me at RTH302 - Bioinformatics Lab)
   - Office Hours: Tue 10-11:30am, Wed 2-3:30pm.
