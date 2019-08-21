@@ -4,6 +4,8 @@ title: Syllabus
 subtitle: BCB-5300 Algorithms in Computational Biology
 ---
 
+## Overview
+
 ### Catalog Description
 
 This course introduces the foundations of algorithmic techniques and analysis, as motivated by biological problems. Topics include dynamic programming, tree and graph algorithms, sequence analysis, clustering and hidden markov models. Motivations include sequence alignment, motif finding, genome assembly, gene prediction, and phylogeny.
@@ -47,8 +49,10 @@ After successfully complete this course, students are expected:
 * Utilize complex data structures to improve the efficiency of sequence analysis.
 * Understand the use of discrete mathematical structures for biological algorithms.
 
-### Course Textbook
-* The primary textbook for this course is "[Bioinformatics Algorithms: An Active Learning Approach (3rd Edition)](http://bioinformaticsalgorithms.com/)" by Phillip Compeau and Pavel Pevzner. The lectures and slides will introduce the topics and cover the majority of the information you will be expected to know. Further resources, where relevant, will be provided via links on this website accompanying the slides or lecture notes. However, you should use this textbook as a resource when you feel you need more information about a particular topic or when you wish to learn the material at a different pace than we cover in the course.  There are other (non-required) textbooks that I personally recommend as references:
+## Course Materials and Resources
+
+### Textbook
+The primary textbook for this course is "[Bioinformatics Algorithms: An Active Learning Approach (3rd Edition)](http://bioinformaticsalgorithms.com/)" by Phillip Compeau and Pavel Pevzner. The lectures and slides will introduce the topics and cover the majority of the information you will be expected to know. Further resources, where relevant, will be provided via links on this website accompanying the slides or lecture notes. However, you should use this textbook as a resource when you feel you need more information about a particular topic or when you wish to learn the material at a different pace than we cover in the course.  There are other (non-required) textbooks that I personally recommend as references:
 
 - [An Introduction to Bioinformatics Algorithms](https://mitpress.mit.edu/books/introduction-bioinformatics-algorithms) (Neil C. Jones and Pavel A. Pevzner 2004)
 - [Algorithms on Strings, Trees, and Sequences: Computer Science and Computational Biology](https://www.cambridge.org/core/books/algorithms-on-strings-trees-and-sequences/F0B095049C7E6EF5356F0A26686C20D3) (Dan Gusfield 1997)
@@ -58,40 +62,77 @@ After successfully complete this course, students are expected:
 If, you're from a discipline where you've not had a formal algorithms course, I strongly recommend you to get
 
 - [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) (Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein 2009 3rd Edition) to be a nice introduction to the algorithms.
- 
 
-**Expectations**: Since this is a computational Biology course, you will be expected to become familiar with the relevant Biology — it is an important and inextricable part of the material, and the underlying Biology provides motivation for the computational problems we will tackle.
+### Course website
+[https://biohpc.github.io/BCB5300/](https://biohpc.github.io/BCB5300/) will be used to announce schedules, slides, assignments, and news.
 
-**Course Objectives**: The main objective of this course will be to provide a broad overview of the major areas of Bioinformatics and Computational Biology (B/CB). Our perspective will be a computational and algorithmic one, though we will take the time to understand the necessary Biology and motivation for the problems we discuss. We will touch upon many areas of B/CB, including phylogenetics, genome structure and Biological network analysis. However, there will be a significant concentration on genomics and related problems such as high-throughput read alignment, gene finding, genome assembly and transcriptome assembly and analysis. At the end of this course, you should have a good understanding of the types of problems people work on in B/CB, and a fairly in-depth knowledge of the computational tools and techniques used to address some foundational problems in the field.  A tentative list of topics we will cover (depending on how quickly we move) is:
+### Git
+[GitHub Classroom](https://classroom.github.com/classrooms) will be used to submit some assignments. For further documentation of the use of this system, please check the course webpage.
 
-  * Optimal sequence alignment (global, local, and glocal alignment — with constant & affine gap penalties
-  * Algorithms and data structures for efficient text indexing and *exact* search
-  * Heuristics for read *alignment* and *mapping* — mapping DNA-seq and RNA-seq reads
-  * Genome assembly — k-mers, De Brujin graph construction and representation, long-read technology and read-overlap graph assembly
-  * Motif finding via Gibbs sampling
-  * Gene finding — statistical models for *ab initio* and evidence-guided prediction of genes
-  * RNA-seq and transcriptomics — transcript assembly, abundance estimation and differential expression testing
-  * Phylogenetics — The small and large phylogeny problem; parsimony, maximum likelihood and Bayesian methods
+### Blackboard:
+Blackboard could be used to post grades. 
 
-## Course Policy
+### Email
+Face-to-face contact in class and in office hours is most desirable. Yet email is a convenient form of communication as well. I try to respond to email promptly, including at least once each evening when possible. Email contact over the weekend will likely be more sporadic, although I will be sure to check at least once.
 
-**Coursework and grading**: The coursework will consist of two exams, a midterm (whose tentative date is Tues, October 11) and a final (on the University-scheduled date). In addition there will be a few homework assignments (some small programming assignments, and one or two written homeworks that will require you to devise / explain an algorithm, or prove some properly about an algorithm or data structure that we cover in class) and a final course project. The final project can be selected from a list of projects that will be distributed in a few weeks. The project will be done in teams of 3 - 4 students (a team of 2 is OK, but no solo projects and **no teams > 4 students**). For the final project, there will be a brief (7 min) presentation by each group, a deliverable as runnable code, and a short (4-5 page) research-style paper describing the work you've done. The breakdown of weights for these different assignments will be as follows:
+If your question involves your progress on a current programming assignment, my response will be more informative if you can point out the specific problem you have encountered, and if I am able to see all of your source code. Therefore I strongly suggest that you either attach all relevant files to the email or submit preliminary versions of such files through git system.
 
-- Midterm — 30%
-- Final — 30%
-- Final Project — 20%
-- Homeworks — 20%
+### Computer and Cell Phone Policy
+Computers (laptops) will be an integral part of this course, both inside and outside of class. However, out of courtesy to both the instructor and other students, please do not use the laptops or computers for non-class related activity. In particular, you do not need to be using a computer unless an exercise or in class activity requiring them is in progress.  
 
-**Regrade policy**: All requests to re-grade, re-check, or re-mark an assignment or exam question **must be made in writing**. When the assignment is re-graded, it will be re-checked in its entirety. This means that *it is possible to lose points on other problems if they were graded incorrectly or too leniently the first time*. Therefore, I urge you to thoroughly consider each regrade request you make.
+You are unlikely to need cell phones during the course of lecture. Please ensure that your cell phone is set to vibrate or silent during lecture, and do not send text messages of any kind.
 
-**Excused Absences**: If you miss a class for a medical or health-related reason, please provide me with a record of this in writing or via e-mail (I do not need to know the specifics, just the date of your absence and that it was for a medical or health reason). If, for a health-related or medical reason, you will miss two or more consecutive classes, or will miss class on a recurring basis, or were unable to meet a particular academic obligation of this course, I will require a written note from the Student Health Service or a healthcare provider documenting the range of dates for which you were unable to meet your academic obligations. This note need not contain any diagnostic information. If you will miss any classes or scheduled exams as a result of religious observances, you must submit this information to me, in writing, within the first two weeks of the semester to make necessary accommodations to complete the work that will be missed.
+## Grading
 
-**Final Grades**: The grade you receive in this class will reflect, as much as possible, the degree to which you have mastered the necessary material. How much somebody “needs” an ‘A’ will have no bearing on whether or not (s)he receives an ‘A’, other than how this need or desire is reflected in the work that (s)he does. I want everyone to do well in this course, and will make every reasonable effort to help you understand the material as well as possible. However, barring errors in the grading of assignments, the grades you receive at the end of the semester are final, and I will not alter them for personal or non-academic reasons, *so please do not ask me to*!
+### Graded Work
 
-**Academic integrity**: [From the University’s Academic Integrity Syllabus Statement](http://www.stonybrook.edu/commcms/academic_integrity/syllstate.html):
+- **Exam** (60%)
+  - Midterm (30%): Tentative schedule: Thursday, Oct. 17th, 2019 at 2:15 pm (classroom)
+  - Final Exam (30%): Tentative schedule: Thursday, Dec. 5th, 2019 at 2:15 pm (classroom)
+  
+- **Homework** (40%)
+> > There will be homework due regularly throughout the semester. Some will be written problem sets, due on paper at the start of class. Some will be programming homework through automated coding challenges on the [Rosalind Bioinformatics Textbook Track](http://rosalind.info/problems/list-view/?location=bioinformatics-textbook-track). 
 
-> Each student must pursue his or her academic goals honestly and be personally accountable for all submitted work. Representing another person’s work as your own is always wrong. Any suspected instance of academic dishonesty will be reported to the Academic Judiciary. For more comprehensive information on academic integrity, including categories of academic dishonesty, please refer to the academic judiciary website at www.stonybrook.edu/academicintegrity.
+> > For all homeworks, you are allowed to required to submit individual solutions. However, I encourage all of you to work with another student, as the best way to learn this material is to discuss and problem solve in a small group. Verbatim copying (from another student or from the internet) is forbidden, so please be sure to write up your solutions on your own. (A good rule of thumb is to take notes when working in a group, but then write them up later solo without the notes, and just reference the notes if you forget any details.)
 
-Academic integrity is a very serious issue. Any assignment, project or exam you complete in this course is expected to be your own work. If you are allowed to discuss the details of or work together on an assignment, this will be made explicit. Otherwise, you are expected to complete the work yourself. *Plagarism is not just the outright copying of content*. If you paraphrase someone else's thoughts, words, or ideas and you don't cite your source, this constitues plagraism (i.e. this is just as bad as copying someone's answer on an exam or code on a homework). It is always much better to turn in an incorrect or incomplete assignment representing your own efforts than to attempt to pass off the work of another as your own. I have a lot of tolerance for those who are making a significant effort but may be having trouble understanding a particular concept or completing a certain assignment. However, there will be no tolerance of academic dishonesty. **If you are academically dishonest in this course, you will recieve a grade of F, and you will be reported to the department's academic integrity committee**.
+### Percentages
+Letter grades will be based on each students overall percentage of awarded points according to the following formula.
 
-**Learning disabilities**: If you have a physical, psychological, medical or learning disability that may impact your course work, please contact Disability Support Services, ECC (Educational Communications Center) Building, room 128, (631) 632-6748. They will determine with you what accommodations, if any, are necessary and appropriate. All information and documentation is confidential.
+Student percentage above 90% will result in a grade of A or better.\
+Student percentage above 87% will result in a grade of A- or better.\
+Student percentage above 83% will result in a grade of B+ or better.\
+Student percentage above 80% will result in a grade of B or better.\
+Student percentage above 77% will result in a grade of B- or better.\
+Student percentage above 73% will result in a grade of C+ or better.\
+Student percentage above 70% will result in a grade of C or better.\
+Student percentage above 67% will result in a grade of C- or better.\
+Student percentage above 60% will result in a grade of D or better.\
+Student percentage below 60% will result in a grade of F.\
+Any modification to this scale at the end of the year will be in favor of the students. That is we may later decide to award an A to a student who is slightly below the cutoff, but we certainly will not deny an A from someone who is above the cutoff.
+
+No matter what curve I impose, I maintain that the minimum passing grade for this class is a 50% - so if your average is lower than that, you will fail this class.
+
+### Extra Credit
+In general, extra credit will not be assigned in this class. The homework assignments provided will be challenging enough for everyone, so I would like for students to focus on the assignments provided.
+
+Upon occasion (and solely at the instructor's discretion), some small extra credit activities may be included, either by announcement in class or as part of an assignment. Please keep in mind that the extra credit is unlikely to significantly affect your grade; if you are concerned about your final grade, it is much better to focus your energy on the regular assignment. Extra credit is solely designed to provide an opportunity to students who wish to explore the topics further.
+
+### Late Homework
+Late homework will suffer a penalty of 10% for every hour they are late. For example, homework which is submitted one hour late is worth at most 90% of the total credit.
+
+In unusual circumstances, such as extreme illness or injury (documented by a doctor's note), family emergencies, etc., please contact the instructor as early as possible to arrange accomidations.
+
+### Regrade Requests
+I am happy to regrade any assignmentss or exam problems which you think were unfair or incorrect. Please bring me the original assignment, plus a written explanation of your question or complaint, within two weeks of the time the paper in question is graded and returned to you.
+
+### Academic Integrity
+In the context of this course, I encourage students to discuss general course material, which includes studying for exams, sharing notes if a student must miss class, and working on any practice problems which are assigned. You are also allowed to turn in homework assignments in pairs. I also encourage you to discuss problems with other students, but please be careful to write up all solutions separately and do not copy any material from another student. As a good rule of thumb, make sure to write your solutions without using any notes or papers written while talking to anyone other than your partner. Remember, you will be on your own in the exam, so it is in your own best interest to make sure that you really understand the material and can solve each problem on your own!
+
+You are allowed to use outside sources of information in this class, including textbooks and webpages. If the complete and correct answer is on page 263 of the lecture notes, the best solution you can submit is "See page 263 of the lecture notes." Period. However, if you find a solution from any other source, such as a web page, a journal paper, a different algorithms textbook, or your mom, you must rewrite the solution in your own words, and you must properly cite your sources. Assume the grader has access to all the official course material, but nothing else. While we strongly encourge you to use any outside source at your disposal, please remember that the homework is supposed to demonstrate that you understand of the material, not just how to use Google. (In particular, if you blindly copy an incorrect solution, don't expect to get very many points for it!)
+
+Students who violate academic integrity policies will be reported to the department, particularly in cases where relevant sources are not cited or in cases of direct copying of another student's work. First time offenses on homework will result in a minimum of a failing grade on the assignment in question, with egregious or repeated offenses resulting in failure in the course. In addition, students may be referred to the College of Arts and Sciences for further disciplinary action.
+
+A statement of minimum standards for student academic integrity at Saint Louis University is described [here](https://www.slu.edu/arts-and-sciences/faculty-resources/syllabi-statements.php); I expect full compliance with the policies described.
+
+### Students Success Center and Disabily Services
+Please see the [College of Arts and Sciences Syllabi statements](https://www.slu.edu/arts-and-sciences/faculty-resources/syllabi-statements.php). I am more than happy to accomodate any requested accommodations; come see me or get in touch via email if you have any questions.
