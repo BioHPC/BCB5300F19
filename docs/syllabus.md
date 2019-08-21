@@ -135,7 +135,7 @@ Students who violate academic integrity policies will be reported to the departm
 A statement of minimum standards for student academic integrity at Saint Louis University is described [here](https://www.slu.edu/arts-and-sciences/faculty-resources/syllabi-statements.php); I expect full compliance with the policies described.
 
 ### Attendance
-Our course follow university level [attendance policy](https://catalog.slu.edu/academic-policies/academic-policies-procedures/attendance/).
+Our course follows university level [attendance policy](https://catalog.slu.edu/academic-policies/academic-policies-procedures/attendance/).
 
 ### Students Success Center and Disabily Services
 Please see the [College of Arts and Sciences Syllabi statements](https://www.slu.edu/arts-and-sciences/faculty-resources/syllabi-statements.php). I am more than happy to accomodate any requested accommodations; come see me or get in touch via email if you have any questions.
