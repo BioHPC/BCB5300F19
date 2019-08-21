@@ -12,7 +12,7 @@ This course introduces the foundations of algorithmic techniques and analysis, a
 
 ### Class Meeting Time/Location
 
-**Time**: Tue, Thu 2:15 pm - 3:30 pm\
+**Time**: Tue, Thu 2:15 pm - 3:30 pm  
 **Where**: Ritter Hall 106
 
 ### Instructor
