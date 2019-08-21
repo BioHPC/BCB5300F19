@@ -14,7 +14,7 @@ description: Algorithms in Computational Biology
 url: "https://biohpc.github.io/BCB5300"
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: "/BCB5300"
 
 # --- Navigation bar options --- #
 
