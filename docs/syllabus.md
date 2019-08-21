@@ -3,32 +3,62 @@ layout: page
 title: Syllabus
 subtitle: BCB-5300 Algorithms in Computational Biology
 ---
-Welcome to Computational Biology (CSE 549). Here you'll find an overview of the course — the material I expect we'll cover, the breakdown of course assignments and credit, and the course policies.
 
-## Course Content
+### Catalog Description
 
-**Textbook(s)**: The officially listed textbooks for this course are "Bioinformatics Algorithms: An Active Learning Approach" [Volume I](https://www.amazon.com/Bioinformatics-Algorithms-Active-Learning-Approach/dp/0990374610) and [Volume II](https://www.amazon.com/Bioinformatics-Algorithms-Active-Learning-Approach/dp/0990374629/ref=pd_sim_14_1?ie=UTF8&psc=1&refRID=40X4TFRTNNVP26HCPYX0). The lectures and slides will introduce the topics and cover the majority of the information you'll be expected to know. Further resources, where relevant, will be provided via links on this website accompanying the slides or lecture notes. However, you should use these textbooks as a resource when you feel you need more information about a particular topic or when you wish to learn the material at a different pace than we cover in the course.  There are other (non-required) textbooks that I personally recommend as references:
+This course introduces the foundations of algorithmic techniques and analysis, as motivated by biological problems. Topics include dynamic programming, tree and graph algorithms, sequence analysis, clustering and hidden markov models. Motivations include sequence alignment, motif finding, genome assembly, gene prediction, and phylogeny.
 
+### Class Meeting Time/Location
+
+**Time**: Tue, Thu 2:15 pm - 3:30 pm\
+**Where**: Ritter Hall 106
+
+### Instructor
+Tae-Hyuk (Ted) Ahn, PhD\
+Assistant Professor\
+Department of Computer Science\
+Program of Bioinformatics and Computational Biology\
+*Email*: ted.ahn@slu.edu\
+*Office*: 305 Ritter Hall (Lab: 302 Ritter Hall)\
+*Phone*: (314) 977-3633\
+*Office Hour*: Tue 10 am - 11:30 am, Wed 2 pm - 3:30 pm or by appointment
+
+### Credits/Pre-requisites
+**Credits**: 3 Credits
+**Pre-requisites**: The official prerequisite is a C- or better in BCB5200 and BCB5250.
+
+### Topical Outline
+Bioinformatics and Computational Biology research is getting bigger and huge, that touches upon many distinct algorithmic and biological area of study. We will try to cover important algorithmic techniques to solve biological questions. Here is a tentative list of topics I would like to cover this semster, but not necessarily in order.
+
+* Sequence, string, and tree
+* Algorithms for motif finding
+* Assembly and graph algorithms
+* Optimal sequence alignment and mapping
+* Identifying genes and clustering
+* Hidden Markov Model and applications
+
+### Student Learning Outcomes
+
+After successfully complete this course, students are expected:
+* Understand underlying fundamental concepts of computational biology.
+* Analyze biological algorithms for asymptotic computation time and memory usage.
+* Describe the fundamental algorithmic types used in biological contexts.
+* Differentiate between sequence alignment algorithms and utilize the one most appropriate for the problem at hand.
+* Utilize complex data structures to improve the efficiency of sequence analysis.
+* Understand the use of discrete mathematical structures for biological algorithms.
+
+### Course Textbook
+* The primary textbook for this course is "[Bioinformatics Algorithms: An Active Learning Approach (3rd Edition)](http://bioinformaticsalgorithms.com/)" by Phillip Compeau and Pavel Pevzner. The lectures and slides will introduce the topics and cover the majority of the information you will be expected to know. Further resources, where relevant, will be provided via links on this website accompanying the slides or lecture notes. However, you should use this textbook as a resource when you feel you need more information about a particular topic or when you wish to learn the material at a different pace than we cover in the course.  There are other (non-required) textbooks that I personally recommend as references:
+
+- [An Introduction to Bioinformatics Algorithms](https://mitpress.mit.edu/books/introduction-bioinformatics-algorithms) (Neil C. Jones and Pavel A. Pevzner 2004)
+- [Algorithms on Strings, Trees, and Sequences: Computer Science and Computational Biology](https://www.cambridge.org/core/books/algorithms-on-strings-trees-and-sequences/F0B095049C7E6EF5356F0A26686C20D3) (Dan Gusfield 1997)
 - [Genome Scale Algorithm Design](http://www.cs.helsinki.fi/group/gsa/book/) (Mäkinen, Belazzougui, Cunial, Tomescu 2015)
 - [Biological Sequence Analysis](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713) (Durbin, Eddy, Krogh, Mitchinson 1998)
 
-If, you're from a discipline where you've not had a formal algorithms course, I find 
+If, you're from a discipline where you've not had a formal algorithms course, I strongly recommend you to get
 
-- [Algorithms](http://beust.com/algorithms.pdf) (Dasgupta, Papadimitriou, and Vazirani 2006) to be a nice introduction to the basics. 
+- [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) (Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein 2009 3rd Edition) to be a nice introduction to the algorithms.
  
-I also recommend 
-
-- [Algorithm Design](http://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358) (Kleinberg and Tardos 2006) 
- 
-and, of course, 
-
-- [The Algorithm Design Manual](http://www.amazon.com/gp/product/1848000693/ref=pd_lpo_sbs_dp_ss_3?pf_rd_p=1944687742&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0321295358&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=02TJC7H7CDMT55WH5X9V) (Skiena 2008).
-
-We will cover the basic required molecular Biology in the course. However if you're not familiar with basic molecular Biology, there are some useful resources worth reading:
-
-- [Molecular Biology of the Cell](http://www.ncbi.nlm.nih.gov/books/bv.fcgi?call=bv.View..ShowTOC&rid=mboc4.TOC&depth=2), by Bruce Alberts, Alexander Johnson, Julian Lewis, Martin Raff, Keith Roberts, and Peter Walter. Garland Publishing, 2002. — This is a great free resource.
-
-- [Molecular Biology](http://www.amazon.com/Molecular-Biology-Second-Edition-David/dp/0123785944) (Clark and Pazdernik 2012)
 
 **Expectations**: Since this is a computational Biology course, you will be expected to become familiar with the relevant Biology — it is an important and inextricable part of the material, and the underlying Biology provides motivation for the computational problems we will tackle.
 
