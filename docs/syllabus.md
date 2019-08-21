@@ -16,13 +16,13 @@ This course introduces the foundations of algorithmic techniques and analysis, a
 **Where**: Ritter Hall 106
 
 ### Instructor
-Tae-Hyuk (Ted) Ahn, PhD\
-Assistant Professor\
-Department of Computer Science\
-Program of Bioinformatics and Computational Biology\
-*Email*: ted.ahn@slu.edu\
-*Office*: 305 Ritter Hall (Lab: 302 Ritter Hall)\
-*Phone*: (314) 977-3633\
+Tae-Hyuk (Ted) Ahn, PhD  
+Assistant Professor  
+Department of Computer Science  
+Program of Bioinformatics and Computational Biology  
+*Email*: ted.ahn@slu.edu  
+*Office*: 305 Ritter Hall (Lab: 302 Ritter Hall)  
+*Phone*: (314) 977-3633  
 *Office Hour*: Tue 10 am - 11:30 am, Wed 2 pm - 3:30 pm or by appointment
 
 ### Credits/Pre-requisites
@@ -91,23 +91,23 @@ You are unlikely to need cell phones during the course of lecture. Please ensure
   - Final Exam (30%): Tentative schedule: Thursday, Dec. 5th, 2019 at 2:15 pm (classroom)
   
 - **Homework** (40%)
-> > There will be homework due regularly throughout the semester. Some will be written problem sets, due on paper at the start of class. Some will be programming homework through automated coding challenges on the [Rosalind Bioinformatics Textbook Track](http://rosalind.info/problems/list-view/?location=bioinformatics-textbook-track). 
+There will be homework due regularly throughout the semester. Some will be written problem sets, due on paper at the start of class. Some will be programming homework through automated coding challenges on the [Rosalind Bioinformatics Textbook Track](http://rosalind.info/problems/list-view/?location=bioinformatics-textbook-track). 
 
-> > For all homeworks, you are allowed to required to submit individual solutions. However, I encourage all of you to work with another student, as the best way to learn this material is to discuss and problem solve in a small group. Verbatim copying (from another student or from the internet) is forbidden, so please be sure to write up your solutions on your own. (A good rule of thumb is to take notes when working in a group, but then write them up later solo without the notes, and just reference the notes if you forget any details.)
+For all homeworks, you are allowed to required to submit individual solutions. However, I encourage all of you to work with another student, as the best way to learn this material is to discuss and problem solve in a small group. Verbatim copying (from another student or from the internet) is forbidden, so please be sure to write up your solutions on your own. (A good rule of thumb is to take notes when working in a group, but then write them up later solo without the notes, and just reference the notes if you forget any details.)
 
 ### Percentages
 Letter grades will be based on each students overall percentage of awarded points according to the following formula.
 
-Student percentage above 90% will result in a grade of A or better.\
-Student percentage above 87% will result in a grade of A- or better.\
-Student percentage above 83% will result in a grade of B+ or better.\
-Student percentage above 80% will result in a grade of B or better.\
-Student percentage above 77% will result in a grade of B- or better.\
-Student percentage above 73% will result in a grade of C+ or better.\
-Student percentage above 70% will result in a grade of C or better.\
-Student percentage above 67% will result in a grade of C- or better.\
-Student percentage above 60% will result in a grade of D or better.\
-Student percentage below 60% will result in a grade of F.\
+Student percentage above 90% will result in a grade of A or better.  
+Student percentage above 87% will result in a grade of A- or better.  
+Student percentage above 83% will result in a grade of B+ or better.  
+Student percentage above 80% will result in a grade of B or better.  
+Student percentage above 77% will result in a grade of B- or better.  
+Student percentage above 73% will result in a grade of C+ or better.  
+Student percentage above 70% will result in a grade of C or better.  
+Student percentage above 67% will result in a grade of C- or better.  
+Student percentage above 60% will result in a grade of D or better.  
+Student percentage below 60% will result in a grade of F.  
 Any modification to this scale at the end of the year will be in favor of the students. That is we may later decide to award an A to a student who is slightly below the cutoff, but we certainly will not deny an A from someone who is above the cutoff.
 
 No matter what curve I impose, I maintain that the minimum passing grade for this class is a 50% - so if your average is lower than that, you will fail this class.
@@ -133,6 +133,9 @@ You are allowed to use outside sources of information in this class, including t
 Students who violate academic integrity policies will be reported to the department, particularly in cases where relevant sources are not cited or in cases of direct copying of another student's work. First time offenses on homework will result in a minimum of a failing grade on the assignment in question, with egregious or repeated offenses resulting in failure in the course. In addition, students may be referred to the College of Arts and Sciences for further disciplinary action.
 
 A statement of minimum standards for student academic integrity at Saint Louis University is described [here](https://www.slu.edu/arts-and-sciences/faculty-resources/syllabi-statements.php); I expect full compliance with the policies described.
+
+### Attendance
+Our course follow university level [attendance policy](https://catalog.slu.edu/academic-policies/academic-policies-procedures/attendance/).
 
 ### Students Success Center and Disabily Services
 Please see the [College of Arts and Sciences Syllabi statements](https://www.slu.edu/arts-and-sciences/faculty-resources/syllabi-statements.php). I am more than happy to accomodate any requested accommodations; come see me or get in touch via email if you have any questions.
