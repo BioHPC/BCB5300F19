@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Syllabus
-published: true
+subtitle: BCB-5300 Algorithms in Computational Biology
 ---
 Welcome to Computational Biology (CSE 549). Here you'll find an overview of the course — the material I expect we'll cover, the breakdown of course assignments and credit, and the course policies.
 
