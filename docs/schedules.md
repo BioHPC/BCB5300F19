@@ -1,8 +1,7 @@
 ---
-layout: post
-title: ''
-published: true
-subtitle: Lectures and related material
+layout: page
+title: Schedules
+subtitle: Lectures, related material, and assignments
 ---
 ## Lectures
 
