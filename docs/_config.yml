@@ -11,10 +11,10 @@ description: Algorithms in Computational Biology
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://biohpc.github.io/BCB5300"
+url: "https://biohpc.github.io/BCB5300F19"
 
 # baseurl should be an empty string
-baseurl: "/BCB5300"
+baseurl: "/BCB5300F19"
 
 # --- Navigation bar options --- #
 
