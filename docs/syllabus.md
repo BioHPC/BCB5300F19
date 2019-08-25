@@ -67,7 +67,7 @@ If, you're from a discipline where you've not had a formal algorithms course, I 
 [https://biohpc.github.io/BCB5300F19/](https://biohpc.github.io/BCB5300F19/) will be used to announce schedules, slides, assignments, and news.
 
 ### Rosalind
-Students can enroll in the class with this link: [Rosalind BCB5300 Classroom](http://rosalind.info/classes/enroll/117859412c/). It is free to register it. We will use this for some assignments.
+Students can enroll in the class with this link: [http://rosalind.info/classes/enroll/117859412c/](http://rosalind.info/classes/enroll/117859412c/). It is free to register it. We will use the Rosalind for solving assignments.
 
 ### Git
 [GitHub Classroom](https://classroom.github.com/classrooms) could be used to submit some assignments. The instructor will provide further info if we use the GitHub Classroom.
