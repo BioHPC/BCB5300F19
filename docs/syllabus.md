@@ -64,10 +64,13 @@ If, you're from a discipline where you've not had a formal algorithms course, I 
 - [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) (Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein 2009 3rd Edition) to be a nice introduction to the algorithms.
 
 ### Course website
-[https://biohpc.github.io/BCB5300/](https://biohpc.github.io/BCB5300/) will be used to announce schedules, slides, assignments, and news.
+[https://biohpc.github.io/BCB5300F19/](https://biohpc.github.io/BCB5300F19/) will be used to announce schedules, slides, assignments, and news.
+
+### Rosalind
+Students can enroll in the class with this link: [Rosalind BCB5300 Classroom](http://rosalind.info/classes/enroll/117859412c/). It is free to register it. We will use this for some assignments.
 
 ### Git
-[GitHub Classroom](https://classroom.github.com/classrooms) will be used to submit some assignments. For further documentation of the use of this system, please check the course webpage.
+[GitHub Classroom](https://classroom.github.com/classrooms) could be used to submit some assignments. The instructor will provide further info if we use the GitHub Classroom.
 
 ### Blackboard:
 Blackboard could be used to post grades. 
