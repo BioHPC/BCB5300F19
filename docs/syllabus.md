@@ -67,10 +67,10 @@ If, you're from a discipline where you've not had a formal algorithms course, I 
 [https://biohpc.github.io/BCB5300F19/](https://biohpc.github.io/BCB5300F19/) will be used to announce schedules, slides, assignments, and news.
 
 ### Rosalind
-Students can enroll in the class with this link: [http://rosalind.info/classes/enroll/117859412c/](http://rosalind.info/classes/enroll/117859412c/). It is free to register it. We will use the Rosalind for solving assignments.
+Students can enroll in the class with this link: [http://rosalind.info/classes/enroll/117859412c/](http://rosalind.info/classes/enroll/117859412c/). It is free to register it. We will use the Rosalind for solving some programming assignments.
 
 ### Git
-[GitHub Classroom](https://classroom.github.com/classrooms) could be used to submit some assignments. The instructor will provide further info if we use the GitHub Classroom.
+Our SLU CS GitLab or [GitHub Classroom](https://classroom.github.com/classrooms) could be used to submit some assignments. The instructor will provide further info if we use the Git system.
 
 ### Blackboard:
 Blackboard could be used to post grades. 
@@ -89,11 +89,11 @@ You are unlikely to need cell phones during the course of lecture. Please ensure
 
 ### Graded Work
 
-- **Exam** (60%)
-  - Midterm (30%): Tentative schedule: Thursday, Oct. 17th, 2019 at 2:15 pm (classroom)
-  - Final Exam (30%): Tentative schedule: Thursday, Dec. 5th, 2019 at 2:15 pm (classroom)
+- **Exam** (50%)
+  - Midterm (25%): Tentative schedule: Thursday, Oct. 17th, 2019 at 2:15 pm (classroom)
+  - Final Exam (25%): Tentative schedule: Thursday, Dec. 5th, 2019 at 2:15 pm (classroom)
   
-- **Homework** (40%)
+- **Homework** (50%)
 There will be homework due regularly throughout the semester. Some will be written problem sets, due on paper at the start of class. Some will be programming homework through automated coding challenges on the [Rosalind Bioinformatics Textbook Track](http://rosalind.info/problems/list-view/?location=bioinformatics-textbook-track). 
 
 For all homeworks, you are allowed to required to submit individual solutions. However, I encourage all of you to work with another student, as the best way to learn this material is to discuss and problem solve in a small group. Verbatim copying (from another student or from the internet) is forbidden, so please be sure to write up your solutions on your own. (A good rule of thumb is to take notes when working in a group, but then write them up later solo without the notes, and just reference the notes if you forget any details.)
@@ -128,6 +128,10 @@ In unusual circumstances, such as extreme illness or injury (documented by a doc
 ### Regrade Requests
 I am happy to regrade any assignmentss or exam problems which you think were unfair or incorrect. Please bring me the original assignment, plus a written explanation of your question or complaint, within two weeks of the time the paper in question is graded and returned to you.
 
+
+## Policies and Resources
+
+
 ### Academic Integrity
 In the context of this course, I encourage students to discuss general course material, which includes studying for exams, sharing notes if a student must miss class, and working on any practice problems which are assigned. You are also allowed to turn in homework assignments in pairs. I also encourage you to discuss problems with other students, but please be careful to write up all solutions separately and do not copy any material from another student. As a good rule of thumb, make sure to write your solutions without using any notes or papers written while talking to anyone other than your partner. Remember, you will be on your own in the exam, so it is in your own best interest to make sure that you really understand the material and can solve each problem on your own!
 
@@ -140,5 +144,25 @@ A statement of minimum standards for student academic integrity at Saint Louis U
 ### Attendance
 Our course follows university level [attendance policy](https://catalog.slu.edu/academic-policies/academic-policies-procedures/attendance/).
 
-### Students Success Center and Disabily Services
+### Title IX
+Saint Louis University and its faculty are committed to supporting our students and seeking an environment that is free of bias, discrimination and harassment. If you have encountered any form of sexual misconduct (e.g. sexual assault, sexual harassment, stalking, domestic or dating violence), we encourage you to report this to the University. If you speak with a faculty member about an incident of misconduct, that faculty member must notify SLU's Title IX coordinator, Anna R. Kratky (DuBourg Hall, room 36; anna.kratky@slu.edu; 314-977-3886) and share the basic facts of your experience with her. The Title IX coordinator will then be available to assist you in understanding all of your options and in connecting you with all possible resources on and off campus.
+
+If you wish to speak with a confidential source, you may contact the counselors at the University Counseling Center at 314-977-TALK. To view SLU’s sexual misconduct policy and for resources, please visit the [Office of the General Counsel](https://www.slu.edu/general-counsel/index.php).
+
 Please see the [College of Arts and Sciences Syllabi statements](https://www.slu.edu/arts-and-sciences/faculty-resources/syllabi-statements.php). I am more than happy to accomodate any requested accommodations; come see me or get in touch via email if you have any questions.
+
+### Disability Services
+Students with a documented disability who wish to request academic accommodations must contact Disability Services to discuss accommodation requests and eligibility requirements. Once successfully registered, the student also must notify the course instructor that they wish to access accommodations in the course.
+
+Please contact Disability Services, located within the Student Success Center, at Disability_services@slu.edu or 314-977-3484 to schedule an appointment. Confidentiality will be observed in all inquiries. Once approved, information about the student’s eligibility for academic accommodations will be shared with course instructors via email from Disability Services and viewed within Banner via the instructor’s course roster.
+
+Note: Students who do not have a documented disability but who think they may have one are encouraged to contact Disability Services.
+
+### Student Success Center
+In recognition that people learn in a variety of ways and that learning is influenced by multiple factors (e.g., prior experience, study skills, learning disability), resources to support student success are available on campus. The Student Success Center assists students with academic-related services and is located in the Busch Student Center (Suite, 331). Students can visit the [Student Success Center](https://www.slu.edu/life-at-slu/student-success-center/index.php) to learn more about tutoring services, university writing services, disability services, and academic coaching.
+
+### University Writing Services
+Students are encouraged to take advantage of University Writing Services in the Student Success Center; getting feedback benefits writers at all skill levels. Trained writing consultants can help with writing projects, multimedia projects, and oral presentations. University Writing Services offers one-on-one consultations that address everything from brainstorming and developing ideas to crafting strong sentences and documenting sources. For more information, visit the Student Success Center  or call the [Student Success Center](https://www.slu.edu/life-at-slu/student-success-center/index.php) at 314-977-3484.
+
+### Basic Needs Security
+Students in personal or academic distress and/or who may be specifically experiencing challenges such as securing food or difficulty navigating campus resources, and who believe this may affect their performance in the course, are encouraged to contact the Dean of Students Office (deanofstudents@slu.edu or 314-977-9378) for support. Furthermore, please notify the instructor if you are comfortable in doing so, as this will enable them to assist you with finding the resources you may need.
