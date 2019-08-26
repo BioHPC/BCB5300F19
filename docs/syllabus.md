@@ -23,7 +23,7 @@ Program of Bioinformatics and Computational Biology
 *Email*: ted.ahn@slu.edu  
 *Office*: 305 Ritter Hall (Lab: 302 Ritter Hall)  
 *Phone*: (314) 977-3633  
-*Office Hour*: Tue 10 am - 11:30 am, Wed 2 pm - 3:30 pm or by appointment
+*Office Hour*: Mon 10 am - 11:30 am, Tue 12:30 pm - 2 pm or by appointment
 
 ### Credits/Pre-requisites
 **Credits**: 3 Credits
@@ -61,7 +61,9 @@ The primary textbook for this course is "[Bioinformatics Algorithms: An Active L
 
 If, you're from a discipline where you've not had a formal algorithms course, I strongly recommend you to get
 
+- [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/#book) is free electronic version of Algorithms by Jeff Erickson (CS at UIUC).
 - [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) (Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein 2009 3rd Edition) to be a nice introduction to the algorithms.
+
 
 ### Course website
 [https://biohpc.github.io/BCB5300F19/](https://biohpc.github.io/BCB5300F19/) will be used to announce schedules, slides, assignments, and news.
