@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the course
-subtitle: BCB-5300 Algorithms in Computational Biology 
+subtitle: BCB-5300 Algorithms in Computational Biology (Fall 2019)
 ---
 
 This is the course website for BCB-5300 (Fall 2019) at Saint Louis University.
