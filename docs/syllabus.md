@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-subtitle: BCB-5300 Algorithms in Computational Biology
+subtitle: BCB-5300 Algorithms in Computational Biology (Fall 2019)
 ---
 
 ## Overview
