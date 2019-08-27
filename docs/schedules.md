@@ -7,8 +7,8 @@ subtitle: Lectures, related material, and assignments
 
  * 8/27/2019 (Tue): Lecture 1 - Course introduction, policies and prospective topics & basic sequence searching ([Lec1 Slides][1])
  * 8/29/2019 (Thu): Lecture 2 - Pseudocode, intro to algorithms ([Lec2 Slides][2])
-   * Class Prep: Ch. 1, pp. 3-9, 53-57
-   * [Algorithms Introduction](http://jeffe.cs.illinois.edu/teaching/algorithms/book/00-intro.pdf)
+   * Class Prep 1: Ch. 1, pp. 3-9, 53-57
+   * Class Prep 2: [Algorithms Introduction](http://jeffe.cs.illinois.edu/teaching/algorithms/book/00-intro.pdf)
  * 9/03/2019 (Tue): Lecture 3 - ([Lec3 Slides][3])
  * 9/04/2019 (Tue): Lecture 4 - ([Lec4 Slides][4])
  
