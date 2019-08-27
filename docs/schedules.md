@@ -15,4 +15,4 @@ subtitle: Lectures, related material, and assignments
 
 
 [1]:{{site.url}}/lectures/BCB5300_Lec01.pdf
-[1]:{{site.url}}/lectures/BCB5300_Lec02.pdf
+[2]:{{site.url}}/lectures/BCB5300_Lec02.pdf
