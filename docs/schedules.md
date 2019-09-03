@@ -16,7 +16,8 @@ subtitle: Lectures, related material, and assignments
 [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/#book) is free electronic version of Algorithms by Jeff Erickson (CS at UIUC).
 
 ## Assignments 
-* HW1 (Due: Thu, 8/29/2019 2:15pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Ex 1-2 (points: 10)
+* HW1 (Due: Thu, 8/29/2019 2:15pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Num 1-2 (points: 10)
+* HW2 (Due: Tue, 9/10/2019 2:15pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Num 3-7 (points: 10)
 
 [1]:{{site.url}}/lectures/BCB5300_Lec01.pdf
 [2]:{{site.url}}/lectures/BCB5300_Lec02.pdf
