@@ -10,7 +10,7 @@ subtitle: Lectures, related material, and assignments
    * Class Prep 1: Ch. 1, pp. 3-9, 53-57
    * Class Prep 2: [Algorithms Introduction](http://jeffe.cs.illinois.edu/teaching/algorithms/book/00-intro.pdf)
  * 9/03/2019 (Tue): Lecture 3 - Algorithm complexity ([Lec3 Slides][3])
- * 9/04/2019 (Tue): Lecture 4 - ([Lec4 Slides][4])
+ * 9/04/2019 (Tue): Lecture 4 - Approch to Bioinformatics Problems ([Lec4 Slides][4])
  
 ## Other links
 [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/#book) is free electronic version of Algorithms by Jeff Erickson (CS at UIUC).
