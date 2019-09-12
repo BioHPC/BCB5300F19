@@ -20,6 +20,7 @@ subtitle: Lectures, related material, and assignments
 ## Assignments 
 * HW1 (Due: Thu, 8/29/2019 2:15pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Num 1-2 (points: 10)
 * HW2 (Due: Tue, 9/10/2019 2:15pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Num 3-7 (points: 10)
+* HW3 (Due: Thu, 9/19/2019 2:15pm) : [KMP problem](homework/hw3.md) (points: 10 + 2)
 
 [1]:{{site.url}}/lectures/BCB5300_Lec01.pdf
 [2]:{{site.url}}/lectures/BCB5300_Lec02.pdf
