@@ -6,7 +6,7 @@ subtitle: BCB-5300 Algorithms in Computational Biology (Fall 2019)
 
 ### Homework 3 Solution
 
-Fix $\sum = {a, c, g, t}$. Let P = and T = . 
+Let P = TACTA and T = TACTAGTACTACTA. 
 
 1. (2 points) Preprocess P in preparation to implementing the KMP algorithm. Construct a table like the lecture slides containing P, q, and pm[q].
 
@@ -14,7 +14,7 @@ Fix $\sum = {a, c, g, t}$. Let P = and T = .
 
 3. (5 points) Implement the KMP algorithm based on the pseudocode of the lecture slide. Then send me an email your jupyter notebook containing your code and output of above example.
 
-4. (+2 points) Re-implement the KMP algorithm 
+4. (+2 points) The first algorithms is from the lecture slides. Try to Re-implement the KMP algorithm as bottom skeleton to work with for loop, not while loop.
 
 ```
 def KMP(pattern, text):
