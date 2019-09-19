@@ -12,8 +12,9 @@ subtitle: Lectures, related material, and assignments
  * 9/03/2019 (Tue): Lecture 3 - Algorithm complexity ([Lec3 Slides][3])
  * 9/05/2019 (Thu): Lecture 4 - Approch to Bioinformatics Problems ([Lec4 Slides][4])
  * 9/10/2019 (Tue): Lecture 5 - String Match: Naive and KMP algorithms ([Lec5 Slides][5])
- * 9/12/2019 (Tue): Lecture 6 - String Match: KMP algorithms ([Lec6 Slides][6])
- * 9/12/2019 (Tue): Lecture 7 - Motif Finding algorithms ([Lec7 Slides][7])
+ * 9/12/2019 (Thu): Lecture 6 - String Match: KMP algorithms ([Lec6 Slides][6])
+ * 9/17/2019 (Tue): Lecture 7 - Motif Finding algorithms ([Lec7 Slides][7])
+ * 9/19/2019 (Thu): Lecture 8 - Motif Finding algorithms ([Lec8 Slides][8])
  
 ## Other links
 [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/#book) is free electronic version of Algorithms by Jeff Erickson (CS at UIUC).
@@ -31,3 +32,4 @@ subtitle: Lectures, related material, and assignments
 [5]:{{site.url}}/lectures/BCB5300_Lec05.pdf
 [6]:{{site.url}}/lectures/BCB5300_Lec06.pdf
 [7]:{{site.url}}/lectures/BCB5300_Lec07.pdf
+[8]:{{site.url}}/lectures/BCB5300_Lec08.pdf
