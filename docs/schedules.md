@@ -15,6 +15,7 @@ subtitle: Lectures, related material, and assignments
  * 9/12/2019 (Thu): Lecture 6 - String Match: KMP algorithms ([Lec6 Slides][6])
  * 9/17/2019 (Tue): Lecture 7 - Motif Finding algorithms ([Lec7 Slides][7])
  * 9/19/2019 (Thu): Lecture 8 - Motif Finding algorithms ([Lec8 Slides][8])
+ * 9/24/2019 (Tue): Lecture 9 - Greedy algorithms ([Lec9 Slides][9])
  
 ## Other links
 [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/#book) is free electronic version of Algorithms by Jeff Erickson (CS at UIUC).
@@ -23,7 +24,7 @@ subtitle: Lectures, related material, and assignments
 * HW1 (Due: Thu, 8/29/2019 2:15pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Num 1-2 (points: 10)
 * HW2 (Due: Tue, 9/10/2019 2:15pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Num 3-7 (points: 10)
 * HW3 (Due: Thu, 9/19/2019 2:15pm) : [KMP problem](homework/hw3.md) (points: 10 + 2)
-* HW4 (Due: Tue, 9/24/2019 2:15pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Num 8-10 (points: 10)
+* HW4 (Due: Fri, 9/28/2019 11:59pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Num 8-10 (points: 10)
 
 [1]:{{site.url}}/lectures/BCB5300_Lec01.pdf
 [2]:{{site.url}}/lectures/BCB5300_Lec02.pdf
@@ -33,3 +34,4 @@ subtitle: Lectures, related material, and assignments
 [6]:{{site.url}}/lectures/BCB5300_Lec06.pdf
 [7]:{{site.url}}/lectures/BCB5300_Lec07.pdf
 [8]:{{site.url}}/lectures/BCB5300_Lec08.pdf
+[9]:{{site.url}}/lectures/BCB5300_Lec09.pdf
