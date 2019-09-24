@@ -16,6 +16,8 @@ subtitle: Lectures, related material, and assignments
  * 9/17/2019 (Tue): Lecture 7 - Motif Finding algorithms ([Lec7 Slides][7])
  * 9/19/2019 (Thu): Lecture 8 - Motif Finding algorithms ([Lec8 Slides][8])
  * 9/24/2019 (Tue): Lecture 9 - Greedy algorithms ([Lec9 Slides][9])
+ * 9/26/2019 (Thu): Lecture 10 - Genome Assembly ([Lec10 Slides][10])
+   * Class Prep : Watch [Chap3 videos](https://www.youtube.com/watch?list=PLQ-85lQlPqFNGdaeGpV8dPEeSm3AChb6L&v=vjB6nhOu3BY) and skim Chap. 3 textbook
  
 ## Other links
 [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/#book) is free electronic version of Algorithms by Jeff Erickson (CS at UIUC).
