@@ -28,6 +28,7 @@ subtitle: Lectures, related material, and assignments
 * HW2 (Due: Tue, 9/10/2019 2:15pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Num 3-7 (points: 10)
 * HW3 (Due: Thu, 9/19/2019 2:15pm) : [KMP problem](homework/hw3.md) (points: 10 + 2)
 * HW4 (Due: Fri, 9/28/2019 11:59pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Num 8-10 (points: 10)
+* HW5 (Due: Tue, 10/8/2019 11:59pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Num 11-15 (points: 10)
 
 [1]:{{site.url}}/lectures/BCB5300_Lec01.pdf
 [2]:{{site.url}}/lectures/BCB5300_Lec02.pdf
