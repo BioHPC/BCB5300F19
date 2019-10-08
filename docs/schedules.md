@@ -20,6 +20,7 @@ subtitle: Lectures, related material, and assignments
    * Class Prep : Watch [Chap3 videos](https://www.youtube.com/watch?list=PLQ-85lQlPqFNGdaeGpV8dPEeSm3AChb6L&v=vjB6nhOu3BY) and skim Chap. 3 textbook
  * 10/1/2019 (Tue): Lecture 11 - Genome Assembly ([Lec11 Slides][11])
  * 10/3/2019 (Thu): Lecture 12 - Genome Assembly ([Lec12 Slides][12])
+ * 10/8/2019 (Tue): Lecture 13 - Sequence Alignment (Dynamic Programming) ([Lec13 Slides][13])
   
 ## Other links
 [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/#book) is free electronic version of Algorithms by Jeff Erickson (CS at UIUC).
@@ -43,3 +44,4 @@ subtitle: Lectures, related material, and assignments
 [10]:{{site.url}}/lectures/BCB5300_Lec10.pdf
 [11]:{{site.url}}/lectures/BCB5300_Lec11.pdf
 [12]:{{site.url}}/lectures/BCB5300_Lec12.pdf
+[13]:{{site.url}}/lectures/BCB5300_Lec13.pdf
