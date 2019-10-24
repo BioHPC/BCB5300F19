@@ -23,6 +23,9 @@ subtitle: Lectures, related material, and assignments
  * 10/8/2019 (Tue): Lecture 13 - Sequence Alignment (Dynamic Programming) ([Lec13 Slides][13])
  * 10/10/2019 (Thu): Lecture 14 - Sequence Alignment (Dynamic Programming) ([Lec14 Slides][14])
  * 10/15/2019 (Tue): Lecture 15 - Midterm Prep Day ([Lec15 Slides][15])
+ * 10/17/2019 (Thu): <span style="color:red">Midterm Exam</span>
+ * 10/22/2019 (Tue): <span style="color:red">Fall Break (No Class)</span>
+ * 10/24/2019 (Thu): Midterm review
   
 ## Other links
 [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/#book) is free electronic version of Algorithms by Jeff Erickson (CS at UIUC).
