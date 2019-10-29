@@ -26,6 +26,7 @@ subtitle: Lectures, related material, and assignments
  * 10/17/2019 (Thu): <span style="color:red">Midterm Exam</span>
  * 10/22/2019 (Tue): <span style="color:red">Fall Break (No Class)</span>
  * 10/24/2019 (Thu): Midterm review
+ * 10/29/2019 (Tue): Lecture 16 - Sequence Alignment ([Lec16 Slides][16])
   
 ## Other links
 [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/#book) is free electronic version of Algorithms by Jeff Erickson (CS at UIUC).
@@ -36,6 +37,7 @@ subtitle: Lectures, related material, and assignments
 * HW3 (Due: Thu, 9/19/2019 2:15pm) : [KMP problem](homework/hw3.md) (points: 10 + 2)
 * HW4 (Due: Fri, 9/28/2019 11:59pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Num 8-10 (points: 10)
 * HW5 (Due: Tue, 10/8/2019 11:59pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Num 11-15 (points: 10)
+* HW6 (Due: Mon, 11/4/2019 11:59pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Num 16-19 (points: 10)
 
 [1]:{{site.url}}/lectures/BCB5300_Lec01.pdf
 [2]:{{site.url}}/lectures/BCB5300_Lec02.pdf
@@ -52,3 +54,4 @@ subtitle: Lectures, related material, and assignments
 [13]:{{site.url}}/lectures/BCB5300_Lec13.pdf
 [14]:{{site.url}}/lectures/BCB5300_Lec14.pdf
 [15]:{{site.url}}/lectures/BCB5300_Lec15.pdf
+[16]:{{site.url}}/lectures/BCB5300_Lec16.pdf
