@@ -28,7 +28,7 @@ subtitle: Lectures, related material, and assignments
  * 10/24/2019 (Thu): Midterm review
  * 10/29/2019 (Tue): Lecture 16 - Sequence Alignment ([Lec16 Slides][16])
  * 10/31/2019 (Thu): Lecture 17 - Sequence Alignment ([Lec17 Slides][17])
- * 11/5/2019 (Tue): Lecture 18 -  ([Lec18 Slides][18])
+ * 11/5/2019 (Tue): Lecture 18 - Genome Rearrangement ([Lec18 Slides][18])
   
 ## Other links
 [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/#book) is free electronic version of Algorithms by Jeff Erickson (CS at UIUC).
