@@ -16,6 +16,9 @@ url: "https://biohpc.github.io/BCB5300F19"
 # baseurl should be an empty string
 baseurl: "/BCB5300F19"
 
+# Show futuer posts
+future: true
+
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
