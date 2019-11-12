@@ -63,3 +63,4 @@ subtitle: Lectures, related material, and assignments
 [17]:{{site.url}}/lectures/BCB5300_Lec17.pdf
 [18]:{{site.url}}/lectures/BCB5300_Lec18.pdf
 [19]:{{site.url}}/lectures/BCB5300_Lec19.pdf
+[20]:{{site.url}}/lectures/BCB5300_Lec20.pdf
