@@ -31,6 +31,7 @@ subtitle: Lectures, related material, and assignments
  * 11/5/2019 (Tue): Lecture 18 - Genome Rearrangement ([Lec18 Slides][18])
  * 11/7/2019 (Thu): Lecture 19 - Genome Rearrangement ([Lec19 Slides][19])
  * 11/12/2019 (Tue): Lecture 20 - Evolutionary Tree ([Lec20 Slides][20])
+ * 11/14/2019 (Thu): Lecture 21 - Evolutionary Tree ([Lec21 Slides][21])
   
 ## Other links
 [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/#book) is free electronic version of Algorithms by Jeff Erickson (CS at UIUC).
@@ -43,6 +44,7 @@ subtitle: Lectures, related material, and assignments
 * HW5 (Due: Tue, 10/8/2019 11:59pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Num 11-15 (points: 10)
 * HW6 (Due: Mon, 11/4/2019 11:59pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Num 16-19 (points: 10)
 * HW7 (Due: Mon, 11/11/2019 11:59pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Num 20-21 (points: 10)
+* HW8 (Due: Mon, 11/19/2019 11:59pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Num 22-25 (points: 10)
 
 [1]:{{site.url}}/lectures/BCB5300_Lec01.pdf
 [2]:{{site.url}}/lectures/BCB5300_Lec02.pdf
@@ -64,3 +66,4 @@ subtitle: Lectures, related material, and assignments
 [18]:{{site.url}}/lectures/BCB5300_Lec18.pdf
 [19]:{{site.url}}/lectures/BCB5300_Lec19.pdf
 [20]:{{site.url}}/lectures/BCB5300_Lec20.pdf
+[21]:{{site.url}}/lectures/BCB5300_Lec21.pdf
