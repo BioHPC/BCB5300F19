@@ -32,6 +32,7 @@ subtitle: Lectures, related material, and assignments
  * 11/7/2019 (Thu): Lecture 19 - Genome Rearrangement ([Lec19 Slides][19])
  * 11/12/2019 (Tue): Lecture 20 - Evolutionary Tree ([Lec20 Slides][20])
  * 11/14/2019 (Thu): Lecture 21 - Evolutionary Tree ([Lec21 Slides][21])
+ * 11/19/2019 (Tue): Lecture 22 - Evolutionary Tree ([Lec22 Slides][22])
   
 ## Other links
 [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/#book) is free electronic version of Algorithms by Jeff Erickson (CS at UIUC).
@@ -67,3 +68,4 @@ subtitle: Lectures, related material, and assignments
 [19]:{{site.url}}/lectures/BCB5300_Lec19.pdf
 [20]:{{site.url}}/lectures/BCB5300_Lec20.pdf
 [21]:{{site.url}}/lectures/BCB5300_Lec21.pdf
+[22]:{{site.url}}/lectures/BCB5300_Lec22.pdf
