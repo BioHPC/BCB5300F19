@@ -45,7 +45,7 @@ subtitle: Lectures, related material, and assignments
 * HW5 (Due: Tue, 10/8/2019 11:59pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Num 11-15 (points: 10)
 * HW6 (Due: Mon, 11/4/2019 11:59pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Num 16-19 (points: 10)
 * HW7 (Due: Mon, 11/11/2019 11:59pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Num 20-21 (points: 10)
-* HW8 (Due: Tue, 11/26/2019 11:59pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Num 22-26 (points: 20)
+* HW8 (Due: Tue, 11/26/2019 2:15pm) : [Rosalind SLU BCB5300](http://rosalind.info/classes/632/) Num 22-27 (points: 20)
 
 [1]:{{site.url}}/lectures/BCB5300_Lec01.pdf
 [2]:{{site.url}}/lectures/BCB5300_Lec02.pdf
