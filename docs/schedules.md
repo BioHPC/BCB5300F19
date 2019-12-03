@@ -33,7 +33,12 @@ subtitle: Lectures, related material, and assignments
  * 11/12/2019 (Tue): Lecture 20 - Evolutionary Tree ([Lec20 Slides][20])
  * 11/14/2019 (Thu): Lecture 21 - Evolutionary Tree ([Lec21 Slides][21])
  * 11/19/2019 (Tue): Lecture 22 - Evolutionary Tree ([Lec22 Slides][22])
- * 10/21/2019 (Thu): <span style="color:red">No Class</span>
+ * 11/21/2019 (Thu): <span style="color:red">No Class</span>
+ * 11/26/2019 (Tue): Homework 8 recap
+ * 11/28/2019 (Thu): <span style="color:red">No Class (Thanksgiving Break) </span>
+ * 12/3/2019 (Tue): Lecture 23 - Trie, Suffix Tree ([Lec23 Slides][23])
+ * 12/5/2019 (Thu): Lecture 24 - BWT ([Lec24 Slides][24])
+ * 12/9/2019 (Mon): Take Home Final Exam Due (11:59 PM) ([Final Exam][25])
   
 ## Other links
 [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/#book) is free electronic version of Algorithms by Jeff Erickson (CS at UIUC).
@@ -70,3 +75,6 @@ subtitle: Lectures, related material, and assignments
 [20]:{{site.url}}/lectures/BCB5300_Lec20.pdf
 [21]:{{site.url}}/lectures/BCB5300_Lec21.pdf
 [22]:{{site.url}}/lectures/BCB5300_Lec22.pdf
+[23]:{{site.url}}/lectures/BCB5300_Lec23.pdf
+[24]:{{site.url}}/lectures/BCB5300_Lec24.pdf
+[25]:{{site.url}}/exam/final
