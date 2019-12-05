@@ -33,4 +33,7 @@ about how clustering is used in your research area or in a novel way that is new
 
 ### Examples:
 (1) [Visualization and analysis of single-cell RNA-seq data by kernel-based similarity learning](https://www.ncbi.nlm.nih.gov/pubmed/28263960)
+
 (2) [CIDR: Ultrafast and accurate clustering through imputation for single-cell RNA-seq data](https://www.ncbi.nlm.nih.gov/pubmed/28351406)
+
+(3) [Identification of cell types from single-cell transcriptomes using a novel clustering method](https://www.ncbi.nlm.nih.gov/pubmed/25805722)
